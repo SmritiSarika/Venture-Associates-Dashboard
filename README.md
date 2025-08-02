@@ -26,7 +26,7 @@ This project contains a Power BI dashboard designed to monitor and analyze Key P
 
 ![Dashboard Screenshot](./Screenshot.png)
 
-(./Screenshott.png)
+![Dashboard Screenshot](./Screenshott.png)
 
 
 ## 🧾 File Structure
